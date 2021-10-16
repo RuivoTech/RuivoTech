@@ -11,12 +11,13 @@ export default class Dev {
  let name = "Richieri Negri"
  let acknowledgements = "Full Stack Developer"
  
- let languages = ["JavaScript", "React", "React Native", "PHP", "MySQL"]
+ let languages = ["JavaScript", "PHP", "MySQL", "MongoDB"]
+ let frameworks = ="React", "React Native", "BootStrap"]
 
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,7 +29,7 @@ export default class Dev {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/RuivoTech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruivotech&theme=dracula&hide_langs_below=1" />
@@ -38,6 +39,6 @@ export default class Dev {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RuivoTech&show_icons=true&theme=dracula&line_height=27" alt="**Richieri Negri** github stats"/>
 </a>
 
-## **Colaboradores**
+## **Contributors**
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=RuivoTech/cem-mono)
