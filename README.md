@@ -1,8 +1,8 @@
-### Olá devs 👋
+### Hello devs 👋
 
-Gosto de criar ótimos sistemas, deixando a vida das pessoas um pouco mais fácil.
+I like to create great systems, making people's lives a little easier.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
